@@ -1,4 +1,6 @@
 **SQL JOIN Operations | Task 05**
+
+
 This repository contains the SQL script **SQLJoinshealthcare_schema.sql**, which provides a practical demonstration of merging data from multiple related tables. Using a healthcare database schema (Patients, Doctors, Appointments), the script showcases the four primary types of SQL JOINs to answer real-world questions and construct comprehensive datasets.
 
 A key highlight of this task is the simulation of a FULL OUTER JOIN in MySQL, which does not natively support this operation.
